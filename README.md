@@ -17,6 +17,21 @@ Grokと一緒に作った、Python初心者の第22弾です♡
 Sub-Layerの内部ツールではありません。  
 公開して使える、勉強ひとことメモです。
 
+## スクリーンショット
+
+![勉強ひとことの全体画面](https://github.com/aqua-grok/aqua-grok-study-hitokoto/blob/main/study-hitokoto.png)
+
+- 上：「今日もGrokと一緒に勉強しよう♡」と日付
+- 中：入力欄とボタン
+- 下：これまでのひとこと
+
+## 画面のイメージ
+
+- いちばん上に「今日もGrokと一緒に勉強しよう♡」
+- その下に今日の日付
+- 中央に入力欄
+- 下に保存したひとことの一覧
+
 ## 技術スタック
 
 - Python 3.x
@@ -25,12 +40,18 @@ Sub-Layerの内部ツールではありません。
 
 ## 使い方
 
-1. Zenn記事で公開しているコードをコピー
-2. Pythonが入っている環境で実行
-3. 上の欄に今日の勉強ひとことを入力
-4. 「保存する♡」を押す
+1. `aqua_grok_study_hitokoto.exe` を実行
+2. 上の欄に今日の勉強ひとことを入力
+3. 「保存する♡」を押す
 
 「Grokありがとう♡」ボタンで感謝も残せます。
+「クリア」で入力欄を空にできます。
+
+## ダウンロード
+
+最新版のEXEは GitHub Releases からどうぞ。
+
+https://github.com/aqua-grok/aqua-grok-study-hitokoto/releases
 
 ## 共同作業
 
